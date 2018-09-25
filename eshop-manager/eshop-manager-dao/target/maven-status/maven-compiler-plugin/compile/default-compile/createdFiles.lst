@@ -1,0 +1,11 @@
+com\eshop\mapper\EshopOrderMapper.class
+com\eshop\mapper\EshopItemParamItemMapper.class
+com\eshop\mapper\EshopUserMapper.class
+com\eshop\mapper\EshopContentMapper.class
+com\eshop\mapper\EshopCartItemMapper.class
+com\eshop\mapper\EshopContentCategoryMapper.class
+com\eshop\mapper\EshopItemMapper.class
+com\eshop\mapper\EshopOrderItemMapper.class
+com\eshop\mapper\EshopItemCatMapper.class
+com\eshop\mapper\EshopOrderShippingMapper.class
+com\eshop\mapper\EshopItemParamMapper.class
